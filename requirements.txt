@@ -1,5 +1,5 @@
 numpy
 pandas
 scikit-learn==1.1.2
-steamlit==1.19.0
+steamlit==22.0.3
 natplotlib==3.5.2
