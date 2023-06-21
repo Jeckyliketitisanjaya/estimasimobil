@@ -1,0 +1,5 @@
+numpy
+pandas
+scity-learn
+steamlit==1.15.0
+natplotlib==3.5.2
